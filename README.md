@@ -30,3 +30,6 @@ them), I don't lose the task.
 
 The goal is to be as minimal as possible and ever-present, so that I can quickly
 remind future-me what to do, without compromising right-now-me's flow.
+
+__________
+*PomodoReminder is built proudly with [Shoes](http://shoesrb.com/)*
